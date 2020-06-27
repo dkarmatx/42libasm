@@ -1,0 +1,6 @@
+build/
+*.a
+*.o
+*.d
+*.py
+test_libasm
